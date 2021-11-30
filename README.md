@@ -14,3 +14,19 @@
 かならず、コピーを作成してから使用ください。
 
 このシートを利用して、日報を作成した際のトラブルの責任は負いかねます。
+
+
+【ユースケース図】
+
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/58035269/143961696-bd1ff2f7-8d22-4902-9661-da55977f1e6a.png">
+
+【クラス図】
+
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/58035269/143961735-31b800e8-bef6-40ae-86d1-5f74b4a6c661.png">
+
+【業務フロー図】
+
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/58035269/143961785-5f8addd7-d0c7-4ef6-823b-4b38cf2add34.png">
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/58035269/143961822-35fff57b-7182-4130-be08-2af4b8e1e7aa.png">
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/58035269/143961857-ce31eb33-72e5-4fc8-84ea-0dc4fb216b80.png">
+
